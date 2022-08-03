@@ -1,0 +1,10 @@
+Model       Embed.      F1      Jaccard     Top     Top
+                                            Two     Two
+                                            F1      Jaccard
+            CRAFT       0.74    0.75        0.82    0.86
+Baseline    GloVe       0.75    0.76        0.83    0.87
+            ELMo        0.79    0.82        0.86    0.90
+
+Ontology    CRAFT       0.80    0.83        0.86    0.91
+aware       GloVe       0.79    0.82        0.86    0.90
+model       ELMo        0.81    0.84        0.87    0.92
