@@ -8,6 +8,7 @@ dill==0.3.5.1
 flake8==5.0.1
 flatbuffers==1.12
 gast==0.4.0
+gensim==4.2.0
 google-auth==2.9.1
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
@@ -46,6 +47,7 @@ scikit-learn==1.0.2
 scipy==1.7.3
 six==1.16.0
 sklearn==0.0
+smart-open==6.0.0
 tensorboard==2.9.1
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
